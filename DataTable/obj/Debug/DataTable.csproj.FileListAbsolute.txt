@@ -1,0 +1,5 @@
+D:\Progetti\Web\DataTable\DataTable\bin\Debug\DataTable.dll
+D:\Progetti\Web\DataTable\DataTable\bin\Debug\DataTable.pdb
+D:\Progetti\Web\DataTable\DataTable\obj\Debug\DataTable.csprojResolveAssemblyReference.cache
+D:\Progetti\Web\DataTable\DataTable\obj\Debug\DataTable.dll
+D:\Progetti\Web\DataTable\DataTable\obj\Debug\DataTable.pdb
